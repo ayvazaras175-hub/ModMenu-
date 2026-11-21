@@ -1,0 +1,11 @@
+{
+    "geode": "4.0.0",
+    "gd": {
+        "android": "2.208"
+    },
+    "id": "aras.modmenu",
+    "name": "Aras Mod Menu",
+    "version": "v1.0.0",
+    "developer": "Aras",
+    "description": "My first Geometry Dash mod!"
+}
