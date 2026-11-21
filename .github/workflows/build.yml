@@ -1,5 +1,5 @@
 
-name: Build Aras Mod Menu
+name: Build Android mod
 
 on:
   push:
@@ -19,6 +19,7 @@ jobs:
         uses: geode-sdk/build-geode-mod@main
         id: build
         with:
+          sdk: nightly
           target: Android64
 
       - name: Upload Geode file
